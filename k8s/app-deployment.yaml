@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: movie-booking-app
-          image: ghcr.io/replace-me/movie-booking-application:latest
+          image: ghcr.io/Reema596/movie-booking-application:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8081
