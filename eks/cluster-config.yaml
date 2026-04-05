@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: movie-booking-cluster
-  region: ap-south-1
+  region: us-east-1
   version: "1.29"
 
 managedNodeGroups:
